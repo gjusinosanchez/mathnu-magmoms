@@ -1,2 +1,2 @@
 # mathnu-magmoms
-Playing around with effective neutrino magnetic moment expressions
+Mathematica Notebooks that explore simple functional forms of neutrino magnetic moments for both Majorana and Dirac neutrinos. Key features are: (1) easy-to-tweak reactor, accelerator, and solar effective magnetic moments and (2) visualizations of the reported XENON1T excess as a neutrino magnetic moment measurement. The latter is a 3D plot for Majorana neutrinos which corresponds to a 3D contour/region plot (not trivial in Python and matplolib!).
